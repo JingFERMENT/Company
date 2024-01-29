@@ -1,4 +1,5 @@
 Voici les étapes pour la création des bases des données:
+
 •	J’ai choisi MySQL comme le système de gestion des bases de données, et j’ai utilisé PhpMyAdmin comme interface de ligne de commande. 
 •	J’ai créé la base des données en utilisant les DDL (data définition langage) : CREATE DATABSE `Company`
 •	J’ai identifié les différentes entités de la base des données avec le logiciel Looping
